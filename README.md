@@ -1,14 +1,14 @@
 # 💫 Hi 👋, I'm VISHNU KUSHWAHA
  Computer Science Student || Java Developer || DSA Learner
 
-Email Me 👉 ✉️ vishnu2023@glbajajgroup.org. 😊😊
+Email Me 👉 ✉️ vishnukushwaha5346@gmail.com 😊😊
 
 - 🔭 **I’m currently working on:** Java Projects and DSA Practice
 - 🌱 **I’m currently learning:** Data Structure & Algorithms using Java
 - 👯 **I’m looking to collaborate on:** Open Source Java Projects
 - 🤔 **I’m looking for help with:** Advanced DSA and System Design
 - 💬 **Ask me about:** Collaboration, Java,DSA,GitHub
-- 📫 **How to reach me:** vishnu2023@glbajajgroup.org
+- 📫 **How to reach me:** vishnukushwaha5346@gmail.com
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I Love solving coding problems and learning new technologies
 
