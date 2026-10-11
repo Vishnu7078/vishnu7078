@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm VISHNU KUSHWAHA
- Computer Science Student || Java Developer || DSA Learner
+ Computer Science Student || FullStack Developer || DSA Learner
 
 Email Me 👉 ✉️ vishnukushwaha5346@gmail.com 😊😊
 
